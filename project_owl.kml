@@ -1,0 +1,488 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Folder>
+      <name>2023-03-19 21:28:23.548488</name>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Russian position in warehouse destroyed by 3rd Spartan brigade in Bakhmut https://twitter.com/neonhandrail/status/1636942725500264448 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/neonhandrail/status/1636942725500264448</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.997478, 48.621426</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Two Russian SPGs destroyed by 93rd Brigade in east Bakhmut  https://twitter.com/neonhandrail/status/1636984606703652864 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/neonhandrail/status/1636984606703652864</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>38.042692, 48.589867</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Russian infantry shelled in east Bakhmut  https://twitter.com/strategicbakery/status/1636970352575148034 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/strategicbakery/status/1636970352575148034</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>38.03409, 48.59576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Russian troops are shelling Ukrainian positions with Tornado-G surface-to-air missiles. The coordinates indicate the position from which fire is being fired near Kreminents https://twitter.com/EjShahid/status/1637031055566807040 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/EjShahid/status/1637031055566807040</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.621257, 47.913501</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>44th artillery and 128th mountain destroy Russian transport in Peremozhne, Zaporizhia https://twitter.com/mon_mon_1064552/status/1637041823381356544 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/mon_mon_1064552/status/1637041823381356544</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>35.534899, 47.430082</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Ukrainian soldiers walking in Bakhmut past ruined buildings  https://t.me/supernova_plus/18478 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://t.me/supernova_plus/18478</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.9798, 48.5925</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>AGS-17 position shelled in north Bakhmut https://t.me/supernova_plus/18479 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://t.me/supernova_plus/18479</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.97278, 48.61414</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>BM-21 Grad struck by artillery from 44th artillery and 128th mountain brigades near Hladke, Zaporizhia https://twitter.com/M0nstas/status/1637034885138333696 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/M0nstas/status/1637034885138333696</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>35.395791, 47.446957</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Damage to 2 Russian TOR-M2 air defense systems in Zaporizhia oblast by the new Ukrainian RAM II loitering munition https://twitter.com/GeoConfirmed/status/1637218280057315328 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/GeoConfirmed/status/1637218280057315328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>35.46046, 47.44005</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>80th air assault brigade troops moving through Kostyantynivka towards Bakhmut https://twitter.com/GeoConfirmed/status/1637197982364729345 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/GeoConfirmed/status/1637197982364729345</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.746522, 48.516183</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Members of the 67th Mechanized launch drone towards Bakhmut (from 16th) https://twitter.com/BattleHardErika/status/1636246269256663040 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/BattleHardErika/status/1636246269256663040</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.873678, 48.611042</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>BTR-4E firing south towards Russian positions in Bakhmut (from 16th) https://twitter.com/Goochslap/status/1637201629853241350 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/Goochslap/status/1637201629853241350</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates> 37.9853, 48.5861</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Ukrainian forces clearing trench NW of Khromove https://twitter.com/GeoConfirmed/status/1637196214230720514 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/GeoConfirmed/status/1637196214230720514</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.930370, 48.613510</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Ukrainians firing at Russian positions near Mariupolska street  https://twitter.com/Alpha_q_OSINT/status/1637164413684686849 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/Alpha_q_OSINT/status/1637164413684686849</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.99947, 48.58053</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Russian FPV drone strikes Ukrainian position in Pervomaiske https://twitter.com/EjShahid/status/1637152507813036034 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/EjShahid/status/1637152507813036034</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.632376, 48.077563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Svyata Drone drops grenade on Russian troops south of Potemkin island  https://twitter.com/maksFromTambov/status/1637185233408630790 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/maksFromTambov/status/1637185233408630790</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>32.576083, 46.570639</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>110th mechanised drone drops grenade in dugout north of Avdiivka https://twitter.com/blinzka/status/1637140702797627397 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/blinzka/status/1637140702797627397</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.732840, 48.189257</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-18</name>
+        <description>Ukrainian artillery shells Russian position north of Spirne  https://twitter.com/EjShahid/status/1637123450782326788 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/EjShahid/status/1637123450782326788</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>38.246411, 48.831676</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>35th Marine strike Russian vehicles south of Vodyane  https://twitter.com/Arvelleg1/status/1637363851749474305 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/Arvelleg1/status/1637363851749474305</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.666475, 48.096045</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Skala battalion spots for missile strike on Russian infantry north east of Bohdanivka https://twitter.com/blinzka/status/1637391127299891203 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/blinzka/status/1637391127299891203</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.909418, 48.631639</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>72nd Mechanised shelling Russian staging area in Mykilske, from 16th https://twitter.com/JagdBandera/status/1636710024650149888 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/JagdBandera/status/1636710024650149888</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.30579, 47.74727</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>503rd battalion drone bomb Russian infantry in Optyne https://twitter.com/JagdBandera/status/1637123881390448642 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/JagdBandera/status/1637123881390448642</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.71293, 48.09571</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>72nd shelling Russian infantry north of Mykilske https://twitter.com/JagdBandera/status/1636718947771793410 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/JagdBandera/status/1636718947771793410</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.31895, 47.76844</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian 2A36 Giatsint-B firing westwards from north of Rubizhne towards Ukrainian forces  https://twitter.com/EjShahid/status/1637400688287252482 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/EjShahid/status/1637400688287252482</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>38.342094, 49.062089</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Ukrainian troops walking in area south west of Ivanivske, dead Russians nearby  https://twitter.com/War_cube_/status/1637407855367143424 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/War_cube_/status/1637407855367143424</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.883304, 48.552588</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Ukrainian troops in north Bakhmut, nearing combat line https://twitter.com/War_cube_/status/1637390426352107520 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/War_cube_/status/1637390426352107520</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.975901, 48.606524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>VOG-17 drone bomb troops in Oleshky  https://twitter.com/foosint/status/1637434088620523524 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/foosint/status/1637434088620523524</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>32.709566, 46.663819</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Artillery shelling of russian infantry in north Bakhmut  https://t.me/operativnoZSU/85619  Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://t.me/operativnoZSU/85619 </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.989545, 48.615471</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Ukrainian forces repel attack in Bakhmut at school near the MiG statue https://twitter.com/foosint/status/1637441428119863296 Added by: Kodiak</description>
+        <styleUrl>#sm1aeeaa3f</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/foosint/status/1637441428119863296</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.966340, 48.575221</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>66th brigade shells Russian infantry west of Ploshchanka https://twitter.com/blinzka/status/1637446087031021569 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/blinzka/status/1637446087031021569</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>38.054786, 49.185165</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian RPG position hit by 78th battalion of 102nd mortar in Dorozhnyanka https://twitter.com/blinzka/status/1637479787101843457 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/blinzka/status/1637479787101843457</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>36.255851, 47.586674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian APCs burning after failed assault north of Vodyane https://twitter.com/PauliusZaleckas/status/1637504360128151553 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/PauliusZaleckas/status/1637504360128151553</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.66094, 48.11125</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian BMP destroyed north of Vodyane  https://twitter.com/neonhandrail/status/1637503710036361217 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/neonhandrail/status/1637503710036361217</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.659851, 48.109525</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Two Russian BMPs destroyed north of Vodyane  https://twitter.com/neonhandrail/status/1637507519840161793 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/neonhandrail/status/1637507519840161793</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.656836, 48.110457</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>78th battalion of 102nd TDF destroy Russian position near Kostyantynivka, Zaporizhia  https://twitter.com/PauliusZaleckas/status/1637480779071594497 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/PauliusZaleckas/status/1637480779071594497</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>36.25594, 47.55576</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian Tank? destroyed north of Vodyane  https://twitter.com/GeoConfirmed/status/1637442904707743745 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://twitter.com/GeoConfirmed/status/1637442904707743745</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.662992, 48.100246</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-03-19</name>
+        <description>Russian position shelled by artillery in north Bakhmut  https://t.me/supernova_plus/18537 Added by: Kodiak</description>
+        <styleUrl>#sm79c7662a</styleUrl>
+        <ExtendedData>
+          <Data name="url">
+            <value>https://t.me/supernova_plus/18537</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>37.97488, 48.62241</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
